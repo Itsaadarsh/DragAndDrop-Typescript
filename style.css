@@ -91,7 +91,6 @@ button:active {
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
   padding: 1rem;
   margin: 1rem;
-  background: white;
 }
 
 .projects li h2 {
@@ -123,6 +122,6 @@ button:active {
 #user-input {
   margin: 1rem;
   padding: 1rem;
-  border: 1px solid #ff0062;
+  border: 10px solid #ff0062;
   background: #f7f7f7;
 }
